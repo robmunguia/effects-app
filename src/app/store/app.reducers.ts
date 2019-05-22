@@ -11,5 +11,3 @@ export const appReducers: ActionReducerMap<AppState> = {
     usuarios: reducers.usuariosReducer,
     usuario: reducers.usuarioReducer
 };
-
-
